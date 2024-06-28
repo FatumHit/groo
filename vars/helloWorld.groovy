@@ -1,3 +1,3 @@
-def testPipe(){
-  println"This is sparta"
+def testPipe(sparta){
+  println"This is $(sparta)"
 }
